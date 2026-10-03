@@ -1,0 +1,6 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+data/cs-training.csv
+Untitled.ipynb
+desktop.ini
